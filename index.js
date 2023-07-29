@@ -301,6 +301,8 @@ function platformaGoreCokGonderiYapanFenomen(diziAdi, platformAdi) {
   return sonuc;
 }
 
+//deneme
+
 /* ***** GÖREVLERİN SONU ***** */
 
 /*Bu satırdan sonra koda dokunmayın! */
